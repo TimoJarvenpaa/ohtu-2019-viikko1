@@ -1,2 +1,2 @@
-# ohtu-2019-viikko1
-Tehtävät 2-13
+# Ohjelmistotuotanto (2019) - Viikko 1
+## Tehtävät 2-13
