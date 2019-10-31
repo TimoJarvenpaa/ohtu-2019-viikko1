@@ -65,7 +65,7 @@ public class VarastoTest {
     
     @Test
     public void toStringToimiiOikein() {
-        String merkkijono = "saldo = 6, vielä tilaa 5.0";
+        String merkkijono = "saldo = 5.0, vielä tilaa 5.0";
         assertEquals(merkkijono, varastoAlkusaldolla.toString());
     }
     
