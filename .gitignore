@@ -1,4 +1,11 @@
 *.tmp
+bin/
+
+# Gradle
 build/
 .gradle/
-/.nb-gradle/
+
+# VS Code
+.project
+.settings/
+.classpath
